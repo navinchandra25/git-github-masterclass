@@ -1,0 +1,23 @@
+[33mcommit 71e4b1c029bc7497a70568fa70237b9a422c43f4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Navin Chandra <chandranavin042@gmail.com>
+Date:   Sun Feb 15 22:47:36 2026 +0530
+
+    delete gallary page
+
+[33mcommit 0f641d45a184ad29c2c7addeb791a43871a4f89f[m
+Author: Navin Chandra <chandranavin042@gmail.com>
+Date:   Sun Feb 15 20:53:46 2026 +0530
+
+    Add Gallary.html file
+
+[33mcommit f306376c58a996e7d7492e8e438be7f3162ff8b6[m
+Author: Navin Chandra <chandranavin042@gmail.com>
+Date:   Sun Feb 15 20:36:00 2026 +0530
+
+    add modal to contact from
+
+[33mcommit cfea08dca9d8643265cb98f411b6e3c27d12a8d9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Navin Chandra <chandranavin042@gmail.com>
+Date:   Sun Feb 15 16:22:20 2026 +0530
+
+    add initial website structure and pages
